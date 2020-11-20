@@ -8,7 +8,6 @@ The app will display the following information for each park :
 - Full name
 - Description
 - Website URL
-- Address of the Park
 
 ## Technologies used in this app:
 - Javascript: fetch API 
